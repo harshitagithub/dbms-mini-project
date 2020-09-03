@@ -1,2 +1,2 @@
 # dbms-mini-project
-its a sample database exploring certain informations for a zoo
+its a sample database exploring definite informations for a zoo
